@@ -1,34 +1,42 @@
-Nguyễn Phương Đại - Software Developer & Project Manager
 Giới thiệu bản thân
-Tôi là Nguyễn Phương Đại, một sinh viên ngành Công nghệ thông tin (IT) chuyên sâu về phát triển phần mềm và hệ thống. Với niềm đam mê công nghệ, tôi hiện đang đảm nhiệm vai trò Người quản lý dự án sản phẩm tại Meta (bắt đầu từ tháng 10/2026) và không ngừng học hỏi để tối ưu hóa các giải pháp kỹ thuật.
 
-Thông tin cá nhân
-Họ và tên: Nguyễn Phương Đại
+Tôi là Nguyễn Phương Đại, hiện là sinh viên năm cuối chuyên ngành Công nghệ thông tin với niềm đam mê mãnh liệt trong việc phát triển phần mềm và quản trị hệ thống. Tôi có kinh nghiệm thực chiến trong các dự án phát triển ứng dụng web và hiện đang đảm nhiệm vai trò quản lý dự án công nghệ.
 
-Ngày sinh: 14/10/2006
+Trình độ học vấn (Education)
+Trường Cao đẳng Kỹ nghệ II: Sinh viên năm cuối chuyên ngành Công nghệ thông tin (IT).
 
-Vị trí hiện tại: Người quản lý dự án sản phẩm (Product Project Manager)
+Trường THPT Long Trường: Đã hoàn thành chương trình giáo dục phổ thông.
 
-Khu vực: Thành phố Hồ Chí Minh, Việt Nam
+Trường THCS Long Phước: Đã tốt nghiệp.
 
-Học vấn & Sự nghiệp
-Công việc:
+Kinh nghiệm làm việc (Experience)
+Meta: Người quản lý dự án sản phẩm (Product Project Manager), bắt đầu từ tháng 10 năm 2026.
 
-Meta: Người quản lý dự án sản phẩm (Product Project Manager).
+Lĩnh vực chuyên môn: Phát triển phần mềm, xây dựng hệ thống và tối ưu hóa trải nghiệm người dùng.
 
-Giáo dục:
-Hiện tại đang học năm cuối
-Trường Cao Đẳng Kỹ Nghệ II: Chuyên ngành Công nghệ thông tin.
-Đã tốt nghiệp:
-THCS Long Phước & THPT Long Trường: Nền tảng giáo dục phổ thông.
+Kỹ năng chuyên môn (Skills)
+Lập trình Web: Thành thạo HTML, CSS, JavaScript, Bootstrap.
 
-Kỹ năng & Chuyên môn
-Lĩnh vực: Phát triển phần mềm (Software Development), Quản trị hệ thống (System Development).
+Framework & Ngôn ngữ: PHP (CodeIgniter), C# (Windows Forms), Java (Servlets, JSP), và Angular.
 
-Thế mạnh: Quản lý dự án, tư duy hệ thống, nghiên cứu và triển khai sản phẩm công nghệ.
+Dự án tiêu biểu:
 
-Liên hệ
-Bạn có thể kết nối với tôi qua các nền tảng mạng xã hội:
+BikeGo: Hệ thống thuê xe đạp điện xanh.
+
+Laundry Service Management: Hệ thống quản lý tiệm giặt ủi cho khuôn viên đại học.
+
+Công cụ & Hệ thống: Sử dụng thành thạo Adobe Photoshop, Premiere Pro; có kinh nghiệm quản trị hệ thống Linux, VirtualBox và cấu hình phần cứng PC.
+
+Thông tin cá nhân & Liên hệ
+Ngày sinh: 14/10/2006.
+
+Địa chỉ: Thành phố Hồ Chí Minh, Việt Nam.
+
+Tình trạng: Độc thân.
+
+Chứng chỉ: Đang mục tiêu đạt TOEIC 650 để phục vụ tốt cho công việc và học tập.
+
+Kết nối với tôi:
 
 Facebook: https://www.facebook.com/nguyenphuongdai.it
 
