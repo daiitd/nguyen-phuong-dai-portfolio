@@ -1,43 +1,47 @@
-Giới thiệu bản thân
+# Th-ng-Tin-V-Nguy-n-Ph-ng-i
+Thông tin về nguyễn phương đại
+Tôi là Nguyễn Phương Đại, một sinh viên năm cuối chuyên ngành Công nghệ thông tin tại trường Cao Đẳng Kỹ Nghệ II. Tôi có niềm đam mê mãnh liệt với việc xây dựng các ứng dụng web tối ưu và giải quyết các vấn đề kỹ thuật phức tạp. Hiện tại, tôi đang tập trung phát triển kỹ năng Full-stack và quản trị hệ thống.
 
-Tôi là Nguyễn Phương Đại, hiện là sinh viên năm cuối chuyên ngành Công nghệ thông tin với niềm đam mê mãnh liệt trong việc phát triển phần mềm và quản trị hệ thống. Tôi có kinh nghiệm thực chiến trong các dự án phát triển ứng dụng web và hiện đang đảm nhiệm vai trò quản lý dự án công nghệ.
+Học vấn: 12/12.
 
-Trình độ học vấn (Education)
-Trường Cao đẳng Kỹ nghệ II: Sinh viên năm cuối chuyên ngành Công nghệ thông tin (IT).
+Mục tiêu ngắn hạn: Đạt chứng chỉ TOEIC 650 thi tại IIG Việt Nam.
 
-Trường THPT Long Trường: Đã hoàn thành chương trình giáo dục phổ thông.
+Vị trí mong muốn: Software Developer / Full-stack Web Developer.
 
-Trường THCS Long Phước: Đã tốt nghiệp.
+🛠️ Kỹ năng chuyên môn
+Lập trình Web (Full-stack)
+Front-end: HTML5, CSS3, JavaScript, Bootstrap, Angular.
 
-Kinh nghiệm làm việc (Experience)
-Meta: Người quản lý dự án sản phẩm (Product Project Manager), bắt đầu từ tháng 10 năm 2026.
+Back-end: PHP (CodeIgniter), Java (Servlets, JSP), C# (Windows Forms).
 
-Lĩnh vực chuyên môn: Phát triển phần mềm, xây dựng hệ thống và tối ưu hóa trải nghiệm người dùng.
+Cơ sở dữ liệu: Quản trị và thao tác dữ liệu (CRUD).
 
-Kỹ năng chuyên môn (Skills)
-Lập trình Web: Thành thạo HTML, CSS, JavaScript, Bootstrap.
+Hệ thống & Công cụ
+Hệ điều hành: Sử dụng thành thạo Windows, có kinh nghiệm cấu hình Dual-boot Linux.
 
-Framework & Ngôn ngữ: PHP (CodeIgniter), C# (Windows Forms), Java (Servlets, JSP), và Angular.
+Phần cứng: Có kiến thức nền tảng rộng lớn và chuyên sâu về lắp ráp và tối ưu hóa PC.
 
-Dự án tiêu biểu:
+Đồ họa & Multimedia: Sử dụng tốt Adobe Photoshop và Premiere Pro cho việc thiết kế giao diện và dựng video.
 
-BikeGo: Hệ thống thuê xe đạp điện xanh.
+Công cụ khác: Git, VirtualBox, OBS Studio.
 
-Laundry Service Management: Hệ thống quản lý tiệm giặt ủi cho khuôn viên đại học.
+📂 Dự án tiêu biểu
+🚲 Thiết kế các website hiện đại như các trang "Happy Birthday" 
+Mô tả: Sử dụng các framework hiện đại như bootrap, jquery...
+cụ thể qua link: https://severbydai.github.io/Website-i-n-T-/
 
-Công cụ & Hệ thống: Sử dụng thành thạo Adobe Photoshop, Premiere Pro; có kinh nghiệm quản trị hệ thống Linux, VirtualBox và cấu hình phần cứng PC.
+Công nghệ: Full-stack development (Front-end & Back-end).
 
-Thông tin cá nhân & Liên hệ
-Ngày sinh: 14/10/2006.
+Vai trò: Phát triển giao diện người dùng và xử lý logic hệ thống.
 
-Địa chỉ: Thành phố Hồ Chí Minh, Việt Nam.
+🎮 Sở thích cá nhân
+Bên cạnh việc lập trình, tôi còn có niềm đam mê với:
 
-Tình trạng: Độc thân.
+Học thiết kế và điều hành hệ thống trên hệ điều hành Linux
 
-Chứng chỉ: Đang mục tiêu đạt TOEIC 650 để phục vụ tốt cho công việc và học tập.
+Công nghệ: Cập nhật tin tức về phần cứng máy tính và AI.
 
-Kết nối với tôi:
-
+📬 Thông tin liên hệ
+GitHub: daiitd
 Facebook: https://www.facebook.com/nguyenphuongdai.it
 
-Instagram: https://www.instagram.com/nguy.enphuongdai/?hl=fr
