@@ -1,50 +1,35 @@
-Tôi là Nguyễn Phương Đại, một sinh viên năm cuối chuyên ngành Công nghệ thông tin. Tôi có niềm đam mê mãnh liệt với việc xây dựng các ứng dụng web tối ưu và giải quyết các vấn đề kỹ thuật phức tạp. Hiện tại, tôi đang tập trung phát triển kỹ năng Full-stack và quản trị hệ thống.
+Nguyễn Phương Đại - Software Developer & Project Manager
+Giới thiệu bản thân
+Tôi là Nguyễn Phương Đại, một sinh viên ngành Công nghệ thông tin (IT) chuyên sâu về phát triển phần mềm và hệ thống. Với niềm đam mê công nghệ, tôi hiện đang đảm nhiệm vai trò Người quản lý dự án sản phẩm tại Meta (bắt đầu từ tháng 10/2026) và không ngừng học hỏi để tối ưu hóa các giải pháp kỹ thuật.
 
-Học vấn: 12/12.
+Thông tin cá nhân
+Họ và tên: Nguyễn Phương Đại
 
-Mục tiêu ngắn hạn: Đạt chứng chỉ TOEIC 650 thi tại IIG Việt Nam.
+Ngày sinh: 14/10/2006
 
-Vị trí mong muốn: Software Developer / Full-stack Web Developer.
+Vị trí hiện tại: Người quản lý dự án sản phẩm (Product Project Manager)
 
-🛠️ Kỹ năng chuyên môn
-Lập trình Web (Full-stack)
-Front-end: HTML5, CSS3, JavaScript, Bootstrap, Angular.
+Khu vực: Thành phố Hồ Chí Minh, Việt Nam
 
-Back-end: PHP (CodeIgniter), Java (Servlets, JSP), C# (Windows Forms).
+Học vấn & Sự nghiệp
+Công việc:
 
-Cơ sở dữ liệu: Quản trị và thao tác dữ liệu (CRUD).
+Meta: Người quản lý dự án sản phẩm (Product Project Manager).
 
-Hệ thống & Công cụ
-Hệ điều hành: Sử dụng thành thạo Windows, có kinh nghiệm cấu hình Dual-boot Linux.
+Giáo dục:
+Hiện tại đang học năm cuối
+Trường Cao Đẳng Kỹ Nghệ II: Chuyên ngành Công nghệ thông tin.
+Đã tốt nghiệp:
+THCS Long Phước & THPT Long Trường: Nền tảng giáo dục phổ thông.
 
-Phần cứng: Có kiến thức nền tảng rộng lớn và chuyên sâu về lắp ráp và tối ưu hóa PC.
+Kỹ năng & Chuyên môn
+Lĩnh vực: Phát triển phần mềm (Software Development), Quản trị hệ thống (System Development).
 
-Đồ họa & Multimedia: Sử dụng tốt Adobe Photoshop và Premiere Pro cho việc thiết kế giao diện và dựng video.
+Thế mạnh: Quản lý dự án, tư duy hệ thống, nghiên cứu và triển khai sản phẩm công nghệ.
 
-Công cụ khác: Git, VirtualBox, OBS Studio.
+Liên hệ
+Bạn có thể kết nối với tôi qua các nền tảng mạng xã hội:
 
-📂 Dự án tiêu biểu
-🚲 Thiết kế các website hiện đại như các trang "Happy Birthday" 
-Mô tả: Sử dụng các framework hiện đại như bootrap, jquery...
-cụ thể qua link: https://daiitd.github.io/Happy-BirthDay-Thu-Hong/
+Facebook: https://www.facebook.com/nguyenphuongdai.it
 
-Công nghệ: Full-stack development (Front-end & Back-end).
-
-Vai trò: Phát triển giao diện người dùng và xử lý logic hệ thống.
-
-🧺 Laundry Service Management
-Mô tả: Hệ thống quản lý tiệm giặt ủi tối ưu cho môi trường ký túc xá/trường học.
-
-Chức năng: Quản lý quy trình giặt ủi, sơ đồ chức năng và xử lý dữ liệu.
-
-🎮 Sở thích cá nhân
-Bên cạnh việc lập trình, tôi còn có niềm đam mê với:
-
-Gaming: Minecraft (Sandbox & Modding) và League of Legends.
-
-Công nghệ: Cập nhật tin tức về phần cứng máy tính và AI.
-
-📬 Thông tin liên hệ
-GitHub: daiitd
-
-Trạng thái: Sẵn sàng cộng tác trong các dự án Open Source hoặc các dự án thực tế.
+Instagram: https://www.instagram.com/nguy.enphuongdai/?hl=fr
