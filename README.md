@@ -28,7 +28,7 @@ Công cụ khác: Git, VirtualBox, OBS Studio.
 📂 Dự án tiêu biểu
 🚲 Thiết kế các website hiện đại như các trang "Happy Birthday" 
 Mô tả: Sử dụng các framework hiện đại như bootrap, jquery...
-cụ thể qua link: https://severbydai.github.io/Website-i-n-T-/
+cụ thể qua link: https://daiitd.github.io/ThayHaDayLaiXe/
 
 Công nghệ: Full-stack development (Front-end & Back-end).
 
