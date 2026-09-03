@@ -43,5 +43,5 @@ Công nghệ: Cập nhật tin tức về phần cứng máy tính và AI.
 
 📬 Thông tin liên hệ
 GitHub: daiitd
-Facebook: https://www.facebook.com/nguyenphuongdai.it
+Facebook: https://www.facebook.com/NguyenPhuongDaii
 
