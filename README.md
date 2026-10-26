@@ -1,4 +1,4 @@
-# Th-ng-Tin-V-Nguy-n-Ph-ng-i
+# NguyenPhuongDai
 Thông tin về nguyễn phương đại
 Tôi là Nguyễn Phương Đại, một sinh viên năm cuối chuyên ngành Công nghệ thông tin tại trường Cao Đẳng Kỹ Nghệ II. Tôi có niềm đam mê mãnh liệt với việc xây dựng các ứng dụng web tối ưu và giải quyết các vấn đề kỹ thuật phức tạp. Hiện tại, tôi đang tập trung phát triển kỹ năng Full-stack và quản trị hệ thống.
 
